@@ -26,7 +26,7 @@ SECRET_KEY = 'c7951rks8wt(0wfibf0m^+lk7j=rrd0-y#5a=@83fpype8)e(s'
 DEBUG = True
 
 # Insert here hosted url (domain)
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['35.154.19.145']
 
 
 # Application definition
