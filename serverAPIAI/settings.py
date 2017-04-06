@@ -26,7 +26,7 @@ SECRET_KEY = 'c7951rks8wt(0wfibf0m^+lk7j=rrd0-y#5a=@83fpype8)e(s'
 DEBUG = True
 
 # Insert here hosted url (domain)
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['vipinbharti.pythonanywhere.com']
 
 
 # Application definition
